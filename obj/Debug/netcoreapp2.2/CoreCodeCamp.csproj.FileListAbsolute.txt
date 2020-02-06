@@ -1,0 +1,14 @@
+D:\CoreApiFundamentals-master\src\bin\Debug\netcoreapp2.2\CoreCodeCamp.deps.json
+D:\CoreApiFundamentals-master\src\bin\Debug\netcoreapp2.2\CoreCodeCamp.runtimeconfig.json
+D:\CoreApiFundamentals-master\src\bin\Debug\netcoreapp2.2\CoreCodeCamp.runtimeconfig.dev.json
+D:\CoreApiFundamentals-master\src\bin\Debug\netcoreapp2.2\CoreCodeCamp.dll
+D:\CoreApiFundamentals-master\src\bin\Debug\netcoreapp2.2\CoreCodeCamp.pdb
+D:\CoreApiFundamentals-master\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.csprojAssemblyReference.cache
+D:\CoreApiFundamentals-master\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.csproj.CoreCompileInputs.cache
+D:\CoreApiFundamentals-master\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.RazorAssemblyInfo.cache
+D:\CoreApiFundamentals-master\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.RazorAssemblyInfo.cs
+D:\CoreApiFundamentals-master\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.AssemblyInfoInputs.cache
+D:\CoreApiFundamentals-master\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.AssemblyInfo.cs
+D:\CoreApiFundamentals-master\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.RazorTargetAssemblyInfo.cache
+D:\CoreApiFundamentals-master\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.dll
+D:\CoreApiFundamentals-master\src\obj\Debug\netcoreapp2.2\CoreCodeCamp.pdb
